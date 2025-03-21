@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{
+text-align: center;
+
+color: rgb(255, 255, 255);
+
+font-family: "Indie Flower", serif;
+font-weight: 700;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-image: url(r_173.jpg);
+}
+.ucl{
+width: 300px;
+}
+hr{
+border: double rgb(255, 255, 255) 3px;
+
+}
+p{
+    font-size: 17.5px;
+}
+.real{
+width: 150px;
+animation-name: real;
+animation-duration: 2.5s;
+animation-iteration-count: infinite;
+position: relative;
+bottom: 10px;
+animation-fill-mode: forwards;
+}
+@keyframes real{
+0%{
+translate: 0 0;}
+50%{
+translate: 0 17px;
+
+
+}
+100%{
+translate: 0 0;
+
+}
+}
+.milan{
+    width: 130px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+    }
+.pool{
+    width: 150px;
+animation-name: real;
+animation-duration: 2.5s;
+animation-iteration-count: infinite;
+position: relative;
+bottom: 10px;
+animation-fill-mode: forwards;
+}
+@keyframes real{
+0%{
+translate: 0 0;}
+50%{
+translate: 0 17px;
+
+
+}
+100%{
+translate: 0 0;
+
+}
+}
+.bay{
+    width: 330px;
+animation-name: real;
+animation-duration: 2.5s;
+animation-iteration-count: infinite;
+position: relative;
+bottom: 10px;
+animation-fill-mode: forwards;
+}
+@keyframes real{
+0%{
+translate: 0 0;}
+50%{
+translate: 0 17px;
+
+
+}
+100%{
+translate: 0 0;
+
+}
+}
+.bar{
+    width: 270px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.aj{
+    width: 168px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+
+.utd{
+    width: 185px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.int{
+    width: 175px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.ch{
+    width: 185px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.juv{
+    width: 138px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.img{
+    width: 185px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.h{
+    width: 185px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+.not{
+    width: 125px;
+    animation-name: real;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom: 10px;
+    animation-fill-mode: forwards;
+    }
+    @keyframes real{
+    0%{
+    translate: 0 0;}
+    50%{
+    translate: 0 17px;
+    
+    
+    }
+    100%{
+    translate: 0 0;
+    
+    }
+}
+a{
+color: rgb(255, 255, 255);
+text-decoration-line: none;
+}
+.cl{
+ line-height: 40px;
+}
+.hk{ line-height: 40px;}
+.fg{ line-height: 40px;}
